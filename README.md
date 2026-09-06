@@ -8,7 +8,7 @@ A teen software addict based in India. Good at front-end web development, and lo
 # My favorite Projects<br>
 <B>[SrinidhiArt](https://srinidhiart.vercel.app/)</b>- A art porfolio to showcase my arts.<br>
 <B>[Stranger Things](https://strange-things.vercel.app/)</b>- A fan page dedicated to a Netflix series (Stranger Things)<br>
-<b>[Bestsellr YSWS](https://bestsellr.hacklcub.com)</b>- A ysws program where you ship a story website and we ship book themed goodies. <br>
+<b>[Bestsellr YSWS](https://bestsellr.hackclub.com)</b>- A ysws program where you ship a story website and we ship book themed goodies. <br>
 <br>
 # Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SrinidhiPakalapati&rank_icon=github&custom_title=Srinidhi%27s%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=SrinidhiPakalapati&rank_icon=github&custom_title=Srinidhi%27s%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue)
